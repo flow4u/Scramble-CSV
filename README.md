@@ -11,6 +11,6 @@ Functions:
 * Outputs a scrambled data set into a CSV
 
  ## Example
-The Jupyter Notebook is setup with an example, run the Notebook yourself, or look at input/output
- ./Source
- ./Scrambled
+The Jupyter Notebook is setup with an example, run the Notebook yourself, or look at input/output:
+./Source
+./Scrambled

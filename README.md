@@ -12,5 +12,5 @@ Functions:
 
  ## Example
 The Jupyter Notebook is setup with an example, run the Notebook yourself, or look at input/output:
-./Source
-./Scrambled
+* ./Source
+* ./Scrambled
